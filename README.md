@@ -1,2 +1,2 @@
 # hello-world
-Just another one! You know
+Just another one! You know.
